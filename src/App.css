@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-size: larger;
+  margin-top: 10%;
+}
+
+.App-title {
+  font-size: 2rem;
+  letter-spacing: 0.1rem;
+  font-weight: bolder;
+}
+
+.App-timer {
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+  display: inline;
+  margin-right: 1rem;
+}
+
+.App-input{
+  border: none;
+  padding: 3rem 1rem;
+}
+
+.App-btn{}
+
+
+
+
+
